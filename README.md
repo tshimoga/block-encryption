@@ -1,6 +1,8 @@
 # block-encryption
 There are two files that perform specific tasks
+
 1. encrypt.c
+
 2. decrypt.c
 
 encrypt.c:
